@@ -1,3 +1,3 @@
 First Appi
-[Linkki](http://users.metropolia.fi/~tuomasmy/Jakso4)
+[Linkki](http://users.metropolia.fi/~tuomasmy/first-app/)
 
