@@ -1,3 +1,3 @@
-# Material UI
+# Media 
 
-[Linkki](http://users.metropolia.fi/~tuomasmy/material-ui/)
+[Linkki](http://users.metropolia.fi/~tuomasmy/media/)
