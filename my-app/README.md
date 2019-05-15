@@ -1,3 +1,3 @@
-# Ajax & Login
+# Upload
 
-[Linkki](http://users.metropolia.fi/~tuomasmy/myapp/)
+[Linkki](http://users.metropolia.fi/~tuomasmy/file-upload)
