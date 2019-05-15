@@ -60,7 +60,7 @@ class App extends Component {
 
   render() {
     return (
-      <Router basename='/~tuomas/file-upload'>
+      <Router basename='/~tuomasmy/file-upload'>
         <Grid container>
           <Grid item sm={2}>
             <Nav checkLogin={this.checkLogin}/>
