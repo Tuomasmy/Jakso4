@@ -56,7 +56,7 @@ class App extends Component {
 
   render() {
     return (
-      <Router basename='/~villeope/material-ui'>
+      <Router basename='/~tuomasmy/material-ui'>
         <Grid container>
           <Grid item sm={2}>
             <Nav checkLogin={this.checkLogin}/>
